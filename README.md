@@ -52,5 +52,5 @@ flutter run
 ```
 ## Important Note on API Keys
 
-For practical reasons, this repository includes a `.env` file containing the API key for Gemini. **It is important to note that exposing API keys and sensitive data in public repositories is not recommended as it poses security risks.** However, for the ease of setup and demonstration purposes, it is included in this instance. In a production environment or in your projects, it is strongly advised to keep such keys private and manage them securely, for example, through environment variables on your deployment platform or encrypted secrets management services.
+For practical reasons, this repository includes a `.env` file containing the API key for Gemini. **It is important to note that exposing API keys and sensitive data in public repositories is not recommended as it poses security risks.** However, for the ease of setup and demonstration purposes, it is included in this instance.
 
